@@ -2,8 +2,9 @@
 //  XbeLoader.m
 //  XbeLoader
 //
-//  Created by Vincent Bénony on 03/03/2014.
-//  Copyright (c) 2014 Cryptic Apps. All rights reserved.
+//  Created by Cody Brocious on 06/28/15.
+//  Copyright (c) 2015 Cody Brocious. All rights reserved.
+//  See LICENSE
 //
 
 #import "XbeLoader.h"
